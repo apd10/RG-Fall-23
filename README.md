@@ -1,7 +1,14 @@
 # Reading group for Fall 23 
 This reading group will go on from mid August till first week of december. We have approximately 14 weeks which means we can hold 28 presentations in total.
 
-## Roles
+
+
+
+
+# Announcements
+
+## Roles in Fall 23 : 9th August 2023
+
 We have the following roles in this edition.
 
 ### R1:
@@ -21,5 +28,4 @@ This is a role of "moderating presentations". You ll not be presenting yourself.
 ### R4: 
 This is a role of "general audience and shadow". You ll read papers from one of the broad topics shadowing other presenters and join to listen in to presentations. 
 
-
-Please choose the role you want to play in this edition of reading group.
+Please choose the role you want to play in this edition of reading group and send to apd10@rice.edu
