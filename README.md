@@ -2,6 +2,7 @@
 This reading group will go on from mid August till first week of december. We have approximately 14 weeks which means we can hold 28 presentations in total.
 
 Contributors
+
 |        **Name**        | **Role** |
 |:-----------------------:|:-----------:|
 | Aditya Desai | TBD |
@@ -30,9 +31,9 @@ This is a role of "moderating presentations". You ll not be presenting yourself.
 ### R4: 
 This is a role of "general audience and shadow". You ll read papers from one of the broad topics shadowing other presenters, listen in to presentations and participate in discussions.
 
-${\color{red}\textrm{Add your name to the table above about roles. }}$
+&#10071; Add your name to the table above about roles.
 
-## How to participate : 9th August 2023 ${\color{red}\textrm{Important}}$
+## How to participate : 9th August 2023 &#10071;&#10071;
 1. If you are participating in the reading group, send me your github id at apd10@rice.edu . I will add you to the collaborators so that you can change the readme and thus update the webpage.
 2. It will a collaborative effort to keep this webpage updated. So make sure to get yourself added to collaborators and update portions that are relevant to you over the period of entire edition.
    
