@@ -1,8 +1,10 @@
 # Reading group for Fall 23 
 This reading group will go on from mid August till first week of december. We have approximately 14 weeks which means we can hold 28 presentations in total.
 
-
-
+Contributors
+|        **Name**        | **Role** |
+|:-----------------------:|:-----------:|
+| Aditya Desai | TBD |
 
 
 # Announcements
@@ -26,6 +28,11 @@ You ll  keep reading papers on a single topic and summarize your learnings in tw
 This is a role of "moderating presentations". You ll not be presenting yourself. But you ll shadow readings of others if possible and actively discuss while they are presenting. The goal of this role is to keep the presentations engaging and to get the best out of it.
 
 ### R4: 
-This is a role of "general audience and shadow". You ll read papers from one of the broad topics shadowing other presenters and join to listen in to presentations. 
+This is a role of "general audience and shadow". You ll read papers from one of the broad topics shadowing other presenters, listen in to presentations and participate in discussions.
 
-Please choose the role you want to play in this edition of reading group and send to apd10@rice.edu
+${\color{red}\textrm{Add your name to the table above about roles. }}$
+
+## How to participate : 9th August 2023 ${\color{red}\textrm{Important}}$
+1. If you are participating in the reading group, send me your github id at apd10@rice.edu . I will add you to the collaborators so that you can change the readme and thus update the webpage.
+2. It will a collaborative effort to keep this webpage updated. So make sure to get yourself added to collaborators and update portions that are relevant to you over the period of entire edition.
+   
