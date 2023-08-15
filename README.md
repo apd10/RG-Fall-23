@@ -7,6 +7,7 @@ Contributors
 |:-----------------------:|:-----------:|
 | Aditya Desai | TBD |
 | Zhenghui Guo | R2  |
+| Gaurav Gupta | R3  |
 
 
 # Announcements
