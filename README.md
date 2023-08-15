@@ -6,6 +6,7 @@ Contributors
 |        **Name**        | **Role** |
 |:-----------------------:|:-----------:|
 | Aditya Desai | TBD |
+| Zhenghui Guo | R2  |
 
 
 # Announcements
