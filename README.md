@@ -1,5 +1,5 @@
 # Reading group for Fall 23 
-This reading group will go on from mid August till first week of december. We have approximately 14 weeks which means we can hold 28 presentations in total.
+This reading group will go on from mid August till first week of december. We have approximately 14 weeks which means we can hold 28 presentations in total. ([webpage link](https://apd10.github.io/RG-Fall-23/))
 
 Contributors
 
