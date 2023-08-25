@@ -9,7 +9,7 @@ Contributors
 | Aditya Desai | TBD |
 | Zhenghui Guo | R2  |
 | Gaurav Gupta | R3  |
-
+| Masa Maksimovic | R2 |
 
 # Announcements
 
