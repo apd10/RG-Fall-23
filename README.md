@@ -10,6 +10,7 @@ Contributors
 | Zhenghui Guo | R2  |
 | Gaurav Gupta | R3  |
 | Masa Maksimovic | R2 |
+| Atishay Jain | R1  | 
 
 |        **Name**        | **Title** | **Suggested to be read by** | **date** |
 |:-----------------------:|:-----------:|:-----------:|:--------:|
