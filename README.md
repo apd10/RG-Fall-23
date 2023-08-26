@@ -11,7 +11,16 @@ Contributors
 | Gaurav Gupta | R3  |
 | Masa Maksimovic | R2 |
 
+|        **Name**        | **Title** | **Suggested to be read by** | **date** |
+|:-----------------------:|:-----------:|:-----------:|:--------:|
+| Aditya Desai | Moments, deviations, chernoff/Hoeffding | All | TBD |
+
 # Announcements
+
+
+## Presentation by Aditya Desai : 26th August
+I will aim to cover parts of chapter 3 and chapter 4 from http://lib.ysu.am/open_books/413311.pdf
+
 
 ## Roles in Fall 23 : 9th August 2023
 
