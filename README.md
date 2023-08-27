@@ -14,7 +14,7 @@ Contributors
 
 |        **Name**        | **Title** | **Suggested to be read by** | **date** |
 |:-----------------------:|:-----------:|:-----------:|:--------:|
-| Aditya Desai | Moments, deviations, chernoff/Hoeffding | All | TBD |
+| Aditya Desai | Moments, deviations, chernoff/Hoeffding | All | 08/28/2023 |
 
 # Announcements
 
