@@ -1,6 +1,9 @@
 # Reading group for Fall 23 
-This reading group will go on from mid August till first week of december. We have approximately 14 weeks which means we can hold 28 presentations in total. ([webpage link](https://apd10.github.io/RG-Fall-23/))
-Sign up sheet ([spreadsheet](https://docs.google.com/spreadsheets/d/1d2h9ndz9gtsQKnr7BkshowLjWjBSavc2pTqVGHs97uM/edit#gid=0))
+This reading group will go on from mid August till first week of december. We have approximately 14 weeks which means we can hold 28 presentations in total.
+# Relevant Links
+1. ([webpage link](https://apd10.github.io/RG-Fall-23/))
+2. Sign up sheet ([spreadsheet](https://docs.google.com/spreadsheets/d/1d2h9ndz9gtsQKnr7BkshowLjWjBSavc2pTqVGHs97uM/edit#gid=0))
+3. Unanswered questions doc ([doc](https://docs.google.com/document/d/1hfLuDhQOH9LCGR1zcUuVny1o1aEK2BpQevwe6Ma60mc/edit?usp=sharing))
 
 Contributors
 
@@ -13,9 +16,9 @@ Contributors
 | Atishay Jain | R1  |
 | Sanya Garg | R2 |
 
-|        **Name**        | **Title** | **Suggested to be read by** | **date** |
-|:-----------------------:|:-----------:|:-----------:|:--------:|
-| Aditya Desai | Moments, deviations, chernoff/Hoeffding | All | 08/28/2023 |
+|        **Name**        | **Title** | **Suggested to be read by** | **date** | **Unanswered questions updated?** |
+|:-----------------------:|:-----------:|:-----------:|:--------:|:--------:|
+| Aditya Desai | Moments, deviations, chernoff/Hoeffding | All | 08/28/2023 | Yes |
 
 # Announcements
 
