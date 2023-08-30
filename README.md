@@ -21,7 +21,8 @@ Contributors
 | Aditya Desai | Moments, deviations, chernoff/Hoeffding | All | 08/28/2023 | Yes |
 
 # Announcements
-
+## Location Confirmed! DH1049 : 30th August
+We have confirmed booking for DH1049 every monday (except Oct 16 where we will book a library room)
 
 ## Presentation by Aditya Desai : 26th August
 I will aim to cover parts of chapter 3 and chapter 4 from http://lib.ysu.am/open_books/413311.pdf
