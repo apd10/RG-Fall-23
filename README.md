@@ -22,16 +22,16 @@ Contributors
 | Tony Zhang | Near neighbor graph, inner product transformation, inner product search | All | 09/04/2023 | TBD |
 
 # Announcements
+## Presentation by Tony Zhang : 4th Sept.
+1. Hierarchical Navigable Small World (HNSW) data structure for approximate near neighbor search: https://arxiv.org/abs/1603.09320
+2. Vector transformation for making them more amenable to inner product search: https://arxiv.org/abs/1405.5869
+3. IP-NSW for maximum inner product search: https://proceedings.neurips.cc/paper/2018/hash/229754d7799160502a143a72f6789927-Abstract.html
+
 ## Location Confirmed! DH1049 : 30th August
 We have confirmed booking for DH1049 every monday (except Oct 16 where we will book a library room)
 
 ## Presentation by Aditya Desai : 26th August
 I will aim to cover parts of chapter 3 and chapter 4 from http://lib.ysu.am/open_books/413311.pdf
-
-## Presentation by Tony Zhang : 4th Sept.
-1. Hierarchical Navigable Small World (HNSW) data structure for approximate near neighbor search: https://arxiv.org/abs/1603.09320
-2. Vector transformation for making them more amenable to inner product search: https://arxiv.org/abs/1405.5869
-3. IP-NSW for maximum inner product search: https://proceedings.neurips.cc/paper/2018/hash/229754d7799160502a143a72f6789927-Abstract.html
 
 ## Roles in Fall 23 : 9th August 2023
 
