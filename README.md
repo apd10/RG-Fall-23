@@ -21,8 +21,9 @@ Contributors
 | Aditya Desai | Moments, deviations, chernoff/Hoeffding | All | 08/28/2023 | Yes |
 | Tony Zhang | Near neighbor graph, inner product transformation, inner product search | All | 09/04/2023 | TBD |
 
-# Announcements
-## Presentation by Tony Zhang : 4th Sept.
+# Announcements (Format -  Title : Date of announcement) . Please put latest first. 
+
+## Presentation by Tony Zhang : 1st Sept.
 1. Hierarchical Navigable Small World (HNSW) data structure for approximate near neighbor search: https://arxiv.org/abs/1603.09320
 2. Vector transformation for making them more amenable to inner product search: https://arxiv.org/abs/1405.5869
 3. IP-NSW for maximum inner product search: https://proceedings.neurips.cc/paper/2018/hash/229754d7799160502a143a72f6789927-Abstract.html
