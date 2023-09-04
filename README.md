@@ -28,6 +28,9 @@ Contributors
 2. Vector transformation for making them more amenable to inner product search: https://arxiv.org/abs/1405.5869
 3. IP-NSW for maximum inner product search: https://proceedings.neurips.cc/paper/2018/hash/229754d7799160502a143a72f6789927-Abstract.html
 
+## Presentation by Jonah Yi : 1st Sept.
+Learning to Route (LTR) in Similarity Graphs: https://arxiv.org/abs/1905.10987
+
 ## Location Confirmed! DH1049 : 30th August
 We have confirmed booking for DH1049 every monday (except Oct 16 where we will book a library room)
 
