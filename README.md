@@ -21,6 +21,7 @@ Contributors
 | Aditya Desai | Moments, deviations, chernoff/Hoeffding | All | 08/28/2023 | Yes |
 | Tony Zhang | Near neighbor graph, inner product transformation, inner product search | All | 09/06/2023 | TBD |
 | Jonah Yi | Learning to Route | All | 09/06/2023 | TBD |
+
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
 ## Presentation by Tony Zhang : 1st Sept.
