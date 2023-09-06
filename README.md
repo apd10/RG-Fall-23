@@ -15,6 +15,7 @@ Contributors
 | Masa Maksimovic | R2 |
 | Atishay Jain | R1  |
 | Sanya Garg | R2 |
+| Benjamin Meisburger | R1 |
 
 |        **Name**        | **Title** | **Suggested to be read by** | **date** | **Unanswered questions updated?** |
 |:-----------------------:|:-----------:|:-----------:|:--------:|:--------:|
