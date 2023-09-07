@@ -25,6 +25,10 @@ Contributors
 
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
+## Presentation by Masa Maksimovic: 11th Sept.
+1. Convergence proofs for some simple settings: https://akyrillidis.github.io/comp414-514/schedule/?fbclid=IwAR1_ImKSLRQFgEGENLVBJD5stwFKf7fogHwse-w-NBrHxFVdMHl7iLRMUVA
+2. A convergence theory for deep learning: https://arxiv.org/abs/1811.03962v1
+
 ## Presentation by Tony Zhang : 1st Sept.
 1. Hierarchical Navigable Small World (HNSW) data structure for approximate near neighbor search: https://arxiv.org/abs/1603.09320
 2. Vector transformation for making them more amenable to inner product search: https://arxiv.org/abs/1405.5869
