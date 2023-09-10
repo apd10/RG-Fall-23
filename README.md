@@ -25,6 +25,9 @@ Contributors
 
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
+## Presentation by Ben Meisburger: 11th Sept.
+1. Deep Gradient Compression: https://openreview.net/pdf?id=SkhQHMW0W
+
 ## Presentation by Masa Maksimovic: 11th Sept.
 1. Convergence proofs for some simple settings: https://akyrillidis.github.io/comp414-514/schedule/?fbclid=IwAR1_ImKSLRQFgEGENLVBJD5stwFKf7fogHwse-w-NBrHxFVdMHl7iLRMUVA
 2. A convergence theory for deep learning: https://arxiv.org/abs/1811.03962v1
