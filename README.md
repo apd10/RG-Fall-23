@@ -24,9 +24,13 @@ Contributors
 | Jonah Yi | Learning to Route | All | 09/06/2023 | &#10071; | &#10071; |
 | Ben Meisburger | Deep Gradient Compression | All | 09/11/2023 | &#10071; | &#10071; |
 | Masa Maksimovic | Convergence in ML | All | 09/11/2023 | &#10071; | &#10071; |
+| Zhenghui Guo(Kevin) | KV cache inference | All | 09/18/2023 | &#10071; | &#10071; |
 
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
+## Presentation by Zhenghui Guo(kevin): 18th Sept.
+1. Efficient Memory Management for Large Language Model Serving with PagedAttention: https://arxiv.org/pdf/2309.06180.pdf
+ 
 ## Presentation by Ben Meisburger: 11th Sept.
 1. Deep Gradient Compression: https://openreview.net/pdf?id=SkhQHMW0W
 
