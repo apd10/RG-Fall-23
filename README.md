@@ -23,7 +23,7 @@ Contributors
 | Tony Zhang | Near neighbor graph, inner product transformation, inner product search | All | 09/06/2023 | &#10071; | &#10071; |
 | Jonah Yi | Learning to Route | All | 09/06/2023 | &#10071; | &#10071; |
 | Ben Meisburger | Deep Gradient Compression | All | 09/11/2023 | Yes | [Slides](https://docs.google.com/presentation/d/13_4C_rVIMUgSwd4_h7OzJvE_ATiirp2cv46h4-4ugaQ/edit?usp=sharing) |
-| Masa Maksimovic | Convergence in ML | All | 09/11/2023 | &#10071; | &#10071; |
+| Masa Maksimovic | Convergence in ML | All | 09/11/2023 | Yes | Attached above as .pdf |
 | Zhenghui Guo(Kevin) | KV cache inference | All | 09/18/2023 | &#10071; | &#10071; |
 
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
