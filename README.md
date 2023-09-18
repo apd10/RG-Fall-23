@@ -28,6 +28,10 @@ Contributors
 
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
+## Presentation by Atishay Jain: 18th Sept.
+1. Knowledge Neurons in Pretrained Transformers: https://arxiv.org/abs/2104.08696
+2. Locating and Editing Factual Associations in GPT: https://arxiv.org/abs/2202.05262
+
 ## Presentation by Zhenghui Guo(kevin): 18th Sept.
 1. Efficient Memory Management for Large Language Model Serving with PagedAttention: https://arxiv.org/pdf/2309.06180.pdf
  
