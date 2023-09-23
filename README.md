@@ -20,7 +20,7 @@ Contributors
 |        **Name**        | **Title** | **Suggested to be read by** | **date** | **Unanswered questions updated?** | slides |
 |:-----------------------:|:-----------:|:-----------:|:--------:|:--------:|:--------:|
 | Aditya Desai | Moments, deviations, chernoff/Hoeffding | All | 08/28/2023 | Yes | N.A |
-| Tony Zhang | Near neighbor graph, inner product transformation, inner product search | All | 09/06/2023 | &#10071; | [Slides](https://docs.google.com/presentation/d/14ODK7HsS7608djWtZiSp2kLlWMxvtFl2WcYxJCr81lY/edit?usp=sharing) |
+| Tony Zhang | Near neighbor graph, inner product transformation, inner product search | All | 09/06/2023 | Yes | [Slides](https://docs.google.com/presentation/d/14ODK7HsS7608djWtZiSp2kLlWMxvtFl2WcYxJCr81lY/edit?usp=sharing) |
 | Jonah Yi | Learning to Route | All | 09/06/2023 | Yes | [Slides](https://docs.google.com/presentation/d/13S0BVWev9SZkkqIbs-iLlEQJukypiTIhEJEfU5igOAI/edit) |
 | Ben Meisburger | Deep Gradient Compression | All | 09/11/2023 | Yes | [Slides](https://docs.google.com/presentation/d/13_4C_rVIMUgSwd4_h7OzJvE_ATiirp2cv46h4-4ugaQ/edit?usp=sharing) |
 | Masa Maksimovic | Convergence in ML | All | 09/11/2023 | Yes | &#10071; |
