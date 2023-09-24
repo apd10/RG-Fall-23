@@ -29,6 +29,9 @@ Contributors
 
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
+## Presentation by Gaurav Gupta: 25th Sept.
+1. Introduction to Vector databases (paper- Milvus: A purpose-built vector data management system, https://dl.acm.org/doi/abs/10.1145/3448016.3457550)
+
 ## Presentation by Atishay Jain: 18th Sept.
 1. Knowledge Neurons in Pretrained Transformers: https://arxiv.org/abs/2104.08696
 2. Locating and Editing Factual Associations in GPT: https://arxiv.org/abs/2202.05262
