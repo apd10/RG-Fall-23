@@ -16,6 +16,7 @@ Contributors
 | Atishay Jain | R1  |
 | Sanya Garg | R2 |
 | Benjamin Meisburger | R2 |
+| Apoorv Walia | R1 |
 
 |        **Name**        | **Title** | **Suggested to be read by** | **date** | **Unanswered questions updated?** | slides |
 |:-----------------------:|:-----------:|:-----------:|:--------:|:--------:|:--------:|
@@ -28,6 +29,11 @@ Contributors
 | Atishay Jain | Knowledge neurons | All | 09/18/2023 | &#10071; | &#10071; |
 
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
+
+## Presentation by Apoorv Walia: 25th Sept.
+1. Introduction to Parameter Sharing Methods (Papers - Roast: Efficient Model Compression with Random Operation Access Specific Tile Hashing - https://arxiv.org/pdf/2207.10702.pdf)
+2. Robe: Random Offset Block Embedding Array - https://arxiv.org/pdf/2108.02191.pdf
+3. Compressing Neural Networks with the Hashing Trick - https://arxiv.org/pdf/1504.04788.pdf
 
 ## Presentation by Gaurav Gupta: 25th Sept.
 1. Introduction to Vector databases (paper- Milvus: A purpose-built vector data management system, https://dl.acm.org/doi/abs/10.1145/3448016.3457550)
