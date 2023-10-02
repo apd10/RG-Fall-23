@@ -30,6 +30,9 @@ Contributors
 
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
+## Presentation by Sanya Garg: 2nd Oct.
+1. Learning without Forgetting for Vision-Language Models: https://arxiv.org/pdf/2305.19270.pdf
+
 ## Presentation by Apoorv Walia: 25th Sept.
 1. Introduction to Parameter Sharing Methods (Papers - Roast: Efficient Model Compression with Random Operation Access Specific Tile Hashing - https://arxiv.org/pdf/2207.10702.pdf)
 2. Robe: Random Offset Block Embedding Array - https://arxiv.org/pdf/2108.02191.pdf
