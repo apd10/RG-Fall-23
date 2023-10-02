@@ -17,6 +17,7 @@ Contributors
 | Sanya Garg | R2 |
 | Benjamin Meisburger | R2 |
 | Apoorv Walia | R1 |
+| Jonah Yi | R1 |
 
 |        **Name**        | **Title** | **Suggested to be read by** | **date** | **Unanswered questions updated?** | slides |
 |:-----------------------:|:-----------:|:-----------:|:--------:|:--------:|:--------:|
