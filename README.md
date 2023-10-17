@@ -28,16 +28,23 @@ Contributors
 | Masa Maksimovic | Convergence in ML | All | 09/11/2023 | Yes | &#10071; |
 | Zhenghui Guo(Kevin) | KV cache inference | All | 09/18/2023 | Yes |[Slides](https://docs.google.com/presentation/d/1DMAgd_4SraJQtuoOYPVdBU14Sz1nEXiy2tYYMC1knnA/edit?usp=sharing)|
 | Atishay Jain | Knowledge neurons | All | 09/18/2023 | &#10071; | &#10071; |
+| Gaurav | Vector Databases | All | 09/25/2023 | &#10071; | &#10071; |
+| Apoorv | Randomized projection based compression | All | 10/16/2023 | &#10071; | &#10071; |
+| Aditya Desai | Recent results on projection based compression | All | 10/16/2023 | &#10071; | &#10071; |
 
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
-## Presentation by Sanya Garg: 2nd Oct.
+## Presentation by Sanya Garg: 235d Oct.
 1. Learning without Forgetting for Vision-Language Models: https://arxiv.org/pdf/2305.19270.pdf
 
-## Presentation by Apoorv Walia: 25th Sept.
+## Presentation by Apoorv Walia: 16th Oct.
 1. Introduction to Parameter Sharing Methods (Papers - Roast: Efficient Model Compression with Random Operation Access Specific Tile Hashing - https://arxiv.org/pdf/2207.10702.pdf)
 2. Robe: Random Offset Block Embedding Array - https://arxiv.org/pdf/2108.02191.pdf
 3. Compressing Neural Networks with the Hashing Trick - https://arxiv.org/pdf/1504.04788.pdf
+
+## Presentation by Aditya Desai: 16th Oct.
+1. Results from "In defense of parameter sharing for model compression"
+
 
 ## Presentation by Gaurav Gupta: 25th Sept.
 1. Introduction to Vector databases (paper- Milvus: A purpose-built vector data management system, https://dl.acm.org/doi/abs/10.1145/3448016.3457550)
