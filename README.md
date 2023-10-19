@@ -100,7 +100,11 @@ This is a role of "general audience and shadow". You ll read papers from one of 
 
 &#10071; Add your name to the table above about roles.
 
+
+
 ## How to participate : 9th August 2023 &#10071;&#10071;
 1. If you are participating in the reading group, send me your github id at apd10@rice.edu . I will add you to the collaborators so that you can change the readme and thus update the webpage.
 2. It will a collaborative effort to keep this webpage updated. So make sure to get yourself added to collaborators and update portions that are relevant to you over the period of entire edition.
-   
+
+# Previous Editions
+[Summer 2023](https://github.com/apd10/summer2023readinggroup)
