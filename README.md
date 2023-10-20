@@ -31,9 +31,12 @@ Contributors
 | Gaurav | Vector Databases | All | 09/25/2023 | &#10071; | &#10071; |
 | Apoorv | Randomized projection based compression | All | 10/16/2023 | &#10071; | &#10071; |
 | Aditya Desai | Recent results on projection based compression | All | 10/16/2023 | &#10071; | &#10071; |
-
+| Zhenghui Guo(Kevin) | You Only Sample (Almost) Once: Linear Cost Self-Attention Via Bernoulli
+Sampling ｜All | 10/23/23 || &#10071; | &#10071; |
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
+## Presentation by Zhenghui Guo(Kevin) 23th Oct.
+1. You Only Sample (Almost) Once: Linear Cost Self-Attention Via Bernoulli Sampling: https://proceedings.mlr.press/v139/zeng21a/zeng21a.pdf
 ## Presentation by Sanya Garg: 235d Oct.
 1. Learning without Forgetting for Vision-Language Models: https://arxiv.org/pdf/2305.19270.pdf
 
