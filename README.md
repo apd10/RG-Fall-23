@@ -35,6 +35,9 @@ Contributors
 | Jonah Yi | Accelerating Large-Scale Inference with Anisotropic Vector Quantization | All | 10/30/23 | &#10071; |[Slides](https://docs.google.com/presentation/d/1DWEQAfARtD58kGfTvvQ7BWNb99XOS3VwVNN0Sq01C7c/edit?usp=sharing)|
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
+## Presentation by Jonah Yi 30th Oct.
+1. Accelerating Large-Scale Inference with Anisotropic Vector Quantization: https://arxiv.org/pdf/1908.10396.pdf
+
 ## Presentation by Zhenghui Guo(Kevin) 23rd Oct.
 1. You Only Sample (Almost) Once: Linear Cost Self-Attention Via Bernoulli Sampling: https://proceedings.mlr.press/v139/zeng21a/zeng21a.pdf
 ## Presentation by Sanya Garg: 235d Oct.
