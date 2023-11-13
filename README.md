@@ -37,6 +37,7 @@ Contributors
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
 ## Presentation by Benjamin Meisburger 13th Nov.
+1. Robust Caching for Amazon Search: https://assets.amazon.science/dc/5e/b919974a4abdba7a3cd82c1bc86f/rose-robust-caches-for-amazon-product-search.pdf
 
 ## Presentation by Jonah Yi 30th Oct.
 1. Accelerating Large-Scale Inference with Anisotropic Vector Quantization: https://arxiv.org/pdf/1908.10396.pdf
