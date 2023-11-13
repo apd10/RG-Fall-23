@@ -33,7 +33,10 @@ Contributors
 | Aditya Desai | Recent results on projection based compression | All | 10/16/2023 | &#10071; | &#10071; |
 | Zhenghui Guo(Kevin) | You Only Sample (Almost) Once: Linear Cost Self-Attention Via Bernoulli Sampling | All | 10/23/23 | &#10071; |[Slides]|
 | Jonah Yi | Accelerating Large-Scale Inference with Anisotropic Vector Quantization | All | 10/30/23 | &#10071; |[Slides](https://docs.google.com/presentation/d/1DWEQAfARtD58kGfTvvQ7BWNb99XOS3VwVNN0Sq01C7c/edit?usp=sharing)|
+| Benjamin Meisburger | ROSE: Robust Caching for Amazon Search | | 11/13/23 | | |[Slides](https://docs.google.com/presentation/d/1syc-YcD8BWlOJAQp5wt5IGAX_BctuSlnoWVQX6zaHts/edit?usp=sharing)|
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
+
+## Presentation by Benjamin Meisburger 13th Nov.
 
 ## Presentation by Jonah Yi 30th Oct.
 1. Accelerating Large-Scale Inference with Anisotropic Vector Quantization: https://arxiv.org/pdf/1908.10396.pdf
