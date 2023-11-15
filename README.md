@@ -36,6 +36,10 @@ Contributors
 | Benjamin Meisburger | ROSE: Robust Caching for Amazon Search | | 11/13/23 | |[Slides](https://docs.google.com/presentation/d/1syc-YcD8BWlOJAQp5wt5IGAX_BctuSlnoWVQX6zaHts/edit?usp=sharing)|
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
+## Presentation by Jonah Yi 205h Nov.
+1. ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms: https://arxiv.org/pdf/1807.05614.pdf
+2. A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search: https://arxiv.org/pdf/2101.12631.pdf
+
 ## Presentation by Benjamin Meisburger 13th Nov.
 1. Robust Caching for Amazon Search: https://assets.amazon.science/dc/5e/b919974a4abdba7a3cd82c1bc86f/rose-robust-caches-for-amazon-product-search.pdf
 
