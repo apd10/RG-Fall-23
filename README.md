@@ -34,6 +34,7 @@ Contributors
 | Zhenghui Guo(Kevin) | You Only Sample (Almost) Once: Linear Cost Self-Attention Via Bernoulli Sampling | All | 10/23/23 | &#10071; |[Slides]|
 | Jonah Yi | Accelerating Large-Scale Inference with Anisotropic Vector Quantization | All | 10/30/23 | &#10071; |[Slides](https://docs.google.com/presentation/d/1DWEQAfARtD58kGfTvvQ7BWNb99XOS3VwVNN0Sq01C7c/edit?usp=sharing)|
 | Benjamin Meisburger | ROSE: Robust Caching for Amazon Search | | 11/13/23 | |[Slides](https://docs.google.com/presentation/d/1syc-YcD8BWlOJAQp5wt5IGAX_BctuSlnoWVQX6zaHts/edit?usp=sharing)|
+| Jonah Yi | ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms | All | 11/20/23 | &#10071; |[Slides](https://docs.google.com/presentation/d/1u6fLZquYOFvDV3GDPgO5FbSQBVFcU--zGsOXojtTz6A/edit?usp=sharing)|
 # Announcements (Format -  Title : Date of announcement) . Please put latest first. 
 
 ## Presentation by Jonah Yi 20th Nov.
