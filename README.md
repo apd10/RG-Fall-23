@@ -3,7 +3,7 @@ This reading group will go on from mid August till first week of december. We ha
 # Relevant Links
 1. ([webpage link](https://apd10.github.io/RG-Fall-23/))
 2. Sign up sheet ([spreadsheet](https://docs.google.com/spreadsheets/d/1d2h9ndz9gtsQKnr7BkshowLjWjBSavc2pTqVGHs97uM/edit#gid=0))
-3. Unanswered questions doc ([doc]([https://docs.google.com/document/d/1Z0zxpLZqKrqejP8iP5RTB26QwkEVunh2kO4M1Xe8pqo/edit?usp=sharing))
+3. Unanswered questions doc ([doc](https://docs.google.com/document/d/1Z0zxpLZqKrqejP8iP5RTB26QwkEVunh2kO4M1Xe8pqo/edit?usp=sharing))
 
 Contributors
 
